@@ -38,7 +38,7 @@ $ npm run dev
 or:
 
 ```
-yarn dev
+$ yarn dev
 ```
 
 Now navigate to [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the app.
@@ -54,7 +54,7 @@ $ npm run lint
 or:
 
 ```
-yarn lint
+$ yarn lint
 ```
 
 For building your project:
@@ -66,7 +66,7 @@ $ npm run build
 or:
 
 ```
-yarn build
+$ yarn build
 ```
 
 ### License
