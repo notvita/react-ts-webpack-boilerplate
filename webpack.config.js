@@ -8,7 +8,7 @@ module.exports = {
     publicPath: '/dist'
   },
   resolve: {
-    extensions: ['.ts', '.tsx']
+    extensions: ['.ts', '.tsx', '.js', '.jsx']
   },
   module: {
     rules: [
