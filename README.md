@@ -1,8 +1,8 @@
-This is a boilerplate for a React-Typescript-Webpack project.
+A barebones boilerplate for a React-TypeScript-Webpack project.
 
 ### Features
 
-* [React](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiCnd7P14_VAhWJULwKHcwLB8AQFggoMAA&url=https%3A%2F%2Ffacebook.github.io%2Freact%2F&usg=AFQjCNHa_1d2VQ9XLEwLkZFQYYmqt39aoQ)
+* [React](https://facebook.github.io/react/)
 * [TypeScript](https://www.typescriptlang.org/)
 * Builds with [Webpack v2](https://webpack.github.io/)
 * [Tslint](https://palantir.github.io/tslint/) with a basic config for linting

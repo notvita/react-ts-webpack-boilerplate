@@ -1,6 +1,6 @@
 {
   "name": "react-ts-webpack-boilerplate",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A boilerplate app using react-typescript-webpack",
   "main": "./src/index.tsx",
   "author": "Ross Weir",
