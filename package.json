@@ -11,6 +11,10 @@
     "dev": "webpack-dev-server --content-base public",
     "lint": "tslint --format stylish src/**/*.ts{,x}"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notvita/react-ts-webpack-boilerplate.git"
+  },
   "dependencies": {
     "@types/react": "^15.0.38",
     "@types/react-dom": "^15.5.1",
