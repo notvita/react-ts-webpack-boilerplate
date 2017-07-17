@@ -1,5 +1,6 @@
 {
   "name": "react-ts-webpack-boilerplate",
+  "private": true,
   "version": "1.0.0",
   "description": "A boilerplate app using react-typescript-webpack",
   "main": "./src/index.tsx",
