@@ -23,22 +23,10 @@ __Install dependencies:__
 $ npm install
 ```
 
-or:
-
-```
-$ yarn install
-```
-
 __Launch boilerplate__
 
 ```
 $ npm run dev
-```
-
-or:
-
-```
-$ yarn dev
 ```
 
 Now navigate to [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the app.
@@ -51,22 +39,10 @@ For linting:
 $ npm run lint
 ```
 
-or:
-
-```
-$ yarn lint
-```
-
 For building your project:
 
 ```
 $ npm run build
-```
-
-or:
-
-```
-$ yarn build
 ```
 
 ### License
